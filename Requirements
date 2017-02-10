@@ -1,1 +1,5 @@
-Install Sklearn
+Install Modules
+  - numpy==1.12.0
+scikit-learn==0.18.1
+scipy==0.18.1
+
