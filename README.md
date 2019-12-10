@@ -1,5 +1,7 @@
 # Anaconda-Python-ProjectS
 Simple web crawler, scrapes information from url input "https://quotes.toscrape.com"
+
+
 HOW TO:
 
 run webSpider.py
