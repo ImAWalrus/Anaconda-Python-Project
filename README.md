@@ -1,4 +1,4 @@
-# Anaconda-Python-ProjectS
+# Basic Python Webcrawler 
 Simple web crawler, scrapes information from url input "https://quotes.toscrape.com"
 
 
